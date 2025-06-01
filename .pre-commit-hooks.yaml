@@ -1,5 +1,5 @@
--   id: clang-diff-format
-    name: clang-diff-format
+-   id: apply-format
+    name: apply-format
     description: '`clang-diff-format` is a command-line utility for clang formatting the change only and not the entire file.'
     entry: apply-format
     language: script
